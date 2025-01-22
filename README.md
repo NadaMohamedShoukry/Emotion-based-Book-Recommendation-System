@@ -9,3 +9,6 @@ emotions and match them with appropriate book genres or themes.
 [Mobile Development using React Native](https://github.com/Judy1692001/BookFeels-ReactNative)
 
 [Backend Development using Django rest-framework with SQLite database]()
+
+###Our Poster
+![Image](https://github.com/user-attachments/assets/2c1d2f01-cfcb-45aa-a54e-7a069d566081)
